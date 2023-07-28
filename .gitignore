@@ -6,14 +6,11 @@
 
 .env
 
-.env-non-dev
-
 .vscode/
 
 venv/
 
 ws_messages.txt
-
 
 
 
