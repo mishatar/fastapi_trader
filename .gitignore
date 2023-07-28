@@ -3,6 +3,18 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+
+.env
+
+.vscode/
+
+venv/
+
+ws_messages.txt
+
+
+
+
 # User-specific files
 *.rsuser
 *.suo
