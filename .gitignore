@@ -6,6 +6,8 @@
 
 .env
 
+.env-non-dev
+
 .vscode/
 
 venv/
